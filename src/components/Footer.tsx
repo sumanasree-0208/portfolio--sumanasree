@@ -18,7 +18,7 @@ const Footer = () => {
               © {currentYear} All Rights Reserved
             </p>
             <p>Developed by{" "}
-              <a href="https://Sumana.netlify.app/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline dark:text-blue-400">
+              <a href="https://SumanaSree.netlify.app/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline dark:text-blue-400">
                 Sumana Sree Meda
               </a>
             </p>
