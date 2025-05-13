@@ -18,8 +18,8 @@ const Footer = () => {
               © {currentYear} All Rights Reserved
             </p>
             <p>Developed by{" "}
-              <a href="https://indivar.netlify.app/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline dark:text-blue-400">
-                Bolisetty Indivar
+              <a href="https://Sumana.netlify.app/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline dark:text-blue-400">
+                Sumana Sree Meda
               </a>
             </p>
           </div>
